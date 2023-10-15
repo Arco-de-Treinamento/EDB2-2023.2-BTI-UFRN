@@ -1,6 +1,6 @@
 
 <h1 align = "center">
-  BTI/UFRN 2023.2 - Linguagem de Programação II: Exercícios
+  BTI/UFRN 2023.2 - Estruturas de Dados Básicas II: Exercícios
   
   <p align="center">
     <img src="https://img.shields.io/github/last-commit/Arco-de-Treinamento/EDB2-2023.2-BTI-UFRN">
@@ -34,6 +34,7 @@ O curso de Estruturas de Dados Básicas II não tem como objetivo utilizar uma l
 * [Java - Documentation](https://dev.java/learn/)
 * [OpenJDK](https://openjdk.org/)
 * [Algoritmos - Teoria e Prática](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996)
+* [Implementing a Binary Tree in Java](https://www.baeldung.com/java-binary-tree)
 
 <hr>
 
@@ -41,7 +42,7 @@ O curso de Estruturas de Dados Básicas II não tem como objetivo utilizar uma l
 
 - Este projeto está sob a licença [MIT](https://github.com/Arco-de-Treinamento/EDB2-2023.2-BTI-UFRN/blob/main/LICENSE).
 
-***
+<hr>
 
 <div align = "center">
 
