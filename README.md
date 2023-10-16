@@ -25,7 +25,7 @@ Este repositório contém as implementações em java de algoritmos desenvolvido
 
 <h2 id="consideracoes">📋 Considerações</h2>
 
-O curso de Estruturas de Dados Básicas II não tem como objetivo utilizar uma linguagem específica, focando principalmente em pseudo-código para o desenvolvimento de algoritmos fundamentais para a computação, como arvores de busca e ordenação. A escolha do java se deu apenas como uma forma de reforçar o conteúdo apresentado na materia de "Linguagem de Programação II".
+O curso de Estruturas de Dados Básicas II não tem como objetivo utilizar uma linguagem específica, focando principalmente em pseudo-código para o desenvolvimento de algoritmos fundamentais para a computação, como arvores de busca e ordenação. A escolha do java se deu apenas como uma forma de reforçar o conteúdo apresentado na materia de "Linguagem de Programação II", além de estudar um pouco sobre teste com jUnit.
 
 <hr>
 
@@ -35,6 +35,7 @@ O curso de Estruturas de Dados Básicas II não tem como objetivo utilizar uma l
 * [OpenJDK](https://openjdk.org/)
 * [Algoritmos - Teoria e Prática](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996)
 * [Implementing a Binary Tree in Java](https://www.baeldung.com/java-binary-tree)
+* [Guide to AVL Trees in Java](https://www.baeldung.com/java-avl-trees)
 
 <hr>
 
