@@ -36,6 +36,9 @@ O curso de Estruturas de Dados Básicas II não tem como objetivo utilizar uma l
 * [Algoritmos - Teoria e Prática](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996)
 * [Implementing a Binary Tree in Java](https://www.baeldung.com/java-binary-tree)
 * [Guide to AVL Trees in Java](https://www.baeldung.com/java-avl-trees)
+* [Red-Black Tree with java](https://www.happycoders.eu/algorithms/red-black-tree-java/)
+* [Red Black Tree Java](https://www.javatpoint.com/red-black-tree-java)
+* [Introduction to Red-Black Tree](https://www.geeksforgeeks.org/introduction-to-red-black-tree/)
 
 <hr>
 
